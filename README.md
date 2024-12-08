@@ -1,6 +1,6 @@
 # Google-Colab---Cursor-JADBio-
 
-Assingment-1: Python</br>
+Assingment-1: Python </br>
 Google Colab Link:
 Description
 Implemented all the code of derek banas python tutorial in colab
