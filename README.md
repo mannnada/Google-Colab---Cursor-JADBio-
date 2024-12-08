@@ -1,6 +1,6 @@
 # Google-Colab---Cursor-JADBio-
 
-Assingment-1: Python
+Assingment-1: Python</br>
 Google Colab Link:
 Description
 Implemented all the code of derek banas python tutorial in colab
@@ -10,7 +10,7 @@ Assingment-2: AI Pair Programmer using Cursor AI - Portfolio Website
 Description
 Technology Stack
 Frontend: HTML, CSS, Vanilla JavaScript
-AI Pair Programmer: Cursor AI
+AI Pair Programmer: Cursor AI</br>
 Video link:
 
 Assignment 3 : Auto ML with JADBio
