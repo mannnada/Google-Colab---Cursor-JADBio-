@@ -1,7 +1,7 @@
 # Google-Colab---Cursor-JADBio-
 
 Assingment-1: Python </br>
-Google Colab Link: https://colab.research.google.com/drive/1QiTl7-BdmP6UQvPY7y3NpweG98mqushw?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1QiTl7-BdmP6UQvPY7y3NpweG98mqushw?usp=sharing</br>
 Description
 Implemented all the code of derek banas python tutorial in colab
 Implemented the features of advanced colab tutorials in a colab.
